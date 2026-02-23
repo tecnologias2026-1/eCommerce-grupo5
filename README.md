@@ -50,9 +50,13 @@ RNF05: El sistema debe tener una interfaz visual con iconos y colores amigables.
 
 Diagrama de Casos de Uso
 
+<img width="1534" height="732" alt="image" src="https://github.com/user-attachments/assets/fc91e56a-26f9-449b-8468-a09adc51e6f6" />
+
 Este diagrama muestra las interacciones entre el usuario (niño o padre/madre) y el sistema. Permite visualizar las principales funciones del sistema, como registrarse, iniciar sesión, registrar ingresos y gastos, crear metas de ahorro y ver el progreso financiero.
 
 Diagrama de Secuencia
+
+<img width="1524" height="733" alt="image" src="https://github.com/user-attachments/assets/d521a1ce-7380-4ca0-8ac7-608e50263ae7" />
 
 Este diagrama muestra el proceso que ocurre cuando el usuario registra un ingreso o gasto. Representa la interacción entre el usuario, la interfaz web y la base de datos, mostrando cómo se guarda la información y se actualiza el saldo.
 
